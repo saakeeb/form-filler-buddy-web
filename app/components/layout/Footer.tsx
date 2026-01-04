@@ -44,16 +44,6 @@ export function Footer() {
             <ul className="mt-4 space-y-2">
               <li>
                 <a
-                  href="https://github.com/Sakib-Space/form-filler-buddy"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-sm text-gray-600 hover:text-gray-900 transition-colors"
-                >
-                  GitHub
-                </a>
-              </li>
-              <li>
-                <a
                   href="mailto:sakib14april@gmail.com"
                   className="text-sm text-gray-600 hover:text-gray-900 transition-colors"
                 >
