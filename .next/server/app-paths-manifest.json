@@ -1,0 +1,10 @@
+{
+  "/(pages)/manual/page": "app/(pages)/manual/page.js",
+  "/(pages)/privacy/page": "app/(pages)/privacy/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/page": "app/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+}

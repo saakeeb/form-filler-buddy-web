@@ -1,0 +1,3 @@
+{
+  "/(pages)/manual/page": "app/(pages)/manual/page.js"
+}

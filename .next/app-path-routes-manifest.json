@@ -1,0 +1,10 @@
+{
+  "/(pages)/manual/page": "/manual",
+  "/(pages)/privacy/page": "/privacy",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/manifest.webmanifest/route": "/manifest.webmanifest",
+  "/page": "/",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

@@ -1,0 +1,6 @@
+{
+  "/(pages)/manual/page": "app/(pages)/manual/page.js",
+  "/(pages)/privacy/page": "app/(pages)/privacy/page.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/page": "app/page.js"
+}
