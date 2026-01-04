@@ -87,15 +87,6 @@ npm start
 ### SEO Components
 - `SEO`: Metadata generator for pages
 
-## 🌐 Deployment
-
-The website is ready to deploy on:
-- **Vercel** (recommended - zero config)
-- **Netlify**
-- **Any static hosting** (after `npm run build`)
-
 ## 📄 License
 
 MIT License - see LICENSE file for details
-# form-filler-buddy-web
-# form-filler-buddy-web
