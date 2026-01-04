@@ -15,7 +15,7 @@ export function ScreenshotsSection() {
         </div>
         
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-          {[1, 2, 3, 4, 5].map((num) => (
+          {[2, 3, 4, 5].map((num) => (
             <div
               key={num}
               className="group relative overflow-hidden rounded-2xl border border-[var(--border)] bg-white shadow-sm transition-all duration-500 hover:shadow-2xl hover:scale-[1.02]"
@@ -25,6 +25,9 @@ export function ScreenshotsSection() {
                     src={`/assets/images/screenshot-${num}.png`}
                     alt={`Form Filler Buddy Screenshot ${num}`}
                     fill
+                    priority={false}
+                    quality={80}
+                    decoding='async'
                     className="object-cover object-top transition-transform duration-700 group-hover:scale-105"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   />
